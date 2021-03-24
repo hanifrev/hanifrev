@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 📫 How to reach me: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
 - ⚡ Fun fact: I love Opeth
