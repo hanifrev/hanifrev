@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome
 
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and Progressive Web Apps
 - 📫 How to reach me: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
 - ⚡ Fun fact: I love Opeth
 
