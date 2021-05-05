@@ -1,8 +1,8 @@
 ### Welcome
 
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and Progressive Web Apps
-- 📫 How to reach me: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
-- ⚡ Fun fact: I love Opeth
+- 🌱 Currently learning [Next.js](https://nextjs.org/) and Progressive Web Apps
+- 📫 E-mail: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
+- ⚡ Best band in the world? Opeth !!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifrev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
