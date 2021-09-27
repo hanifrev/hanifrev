@@ -1,7 +1,7 @@
 ### Welcome
 
 - 🌱 Currently learning [Next.js](https://nextjs.org/) and Progressive Web Apps
-- ⚡ Best band in the world? Opeth !!!
+- ⚡ asleep in the rain, a child once again
 
 #### Links
 - Personal Website: [hanifrev.me](http://hanifrev.me/)
