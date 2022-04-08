@@ -4,7 +4,7 @@
 - ⚡ asleep in the rain, a child once again
 
 #### Links
-- Personal Website: [hanifrev.me](http://hanifrev.me/)
+- Personal Website: [hanifrev.com](http://hanifrev.com/)
 - LinkedIn: https://www.linkedin.com/in/faishal-hanif7
 - 📫 E-mail: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
 
