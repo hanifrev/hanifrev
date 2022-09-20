@@ -1,7 +1,6 @@
 ### Welcome
 
-- 🌱 Currently learning [Next.js](https://nextjs.org/) and Progressive Web Apps
-- ⚡ asleep in the rain, a child once again
+- 🌱 Currently learning [Next.js](https://nextjs.org/)
 
 #### Links
 - Personal Website: [hanifrev.com](http://hanifrev.com/)
