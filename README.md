@@ -1,7 +1,3 @@
-### Welcome
-
-- 🌱 Currently learning [Next.js](https://nextjs.org/)
-
 #### Links
 - Personal Website: [hanifrev.com](http://hanifrev.com/)
 - LinkedIn: https://www.linkedin.com/in/faishal-hanif7
