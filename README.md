@@ -1,9 +1,9 @@
 <!-- #### Links -->
 - Personal Website: [hanifrev.com](http://hanifrev.com/)
 - LinkedIn: https://www.linkedin.com/in/faishal-hanif7
-- 📫 E-mail: [hanifrev@gmail.com](mailto:hanifrev@gmail.com)
+<!-- - 📫 E-mail: [hanifrev@gmail.com](mailto:hanifrev@gmail.com) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifrev&show_icons=true&theme=transparent)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifrev&show_icons=true&theme=transparent) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifrev&hide=html,scss,css&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hanifrev&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
